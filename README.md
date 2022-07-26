@@ -4,6 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feminentecero%2Fhit-counter&count_bg=%233175C6&title_bg=%238BB8F5&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/eminentecero)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlatndud0515)](https://solved.ac/rlatndud0515)
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eminentecero)](https://github.com/anuraghazra/github-readme-stats)
 
   <h2>🔧Tech Stack</h2>
@@ -33,6 +36,8 @@
 
   📌아이어 | 2022.04.01 ~ ing
 
+<h2>More</h2>
+🤍velog: https://velog.io/@eminentecero
 
 
 
