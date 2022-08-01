@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hello, I'm Swim 🏊‍♀
+  # Hello, I'm Swim 🍀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feminentecero%2Fhit-counter&count_bg=%233175C6&title_bg=%238BB8F5&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/eminentecero)
 
