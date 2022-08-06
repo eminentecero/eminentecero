@@ -36,7 +36,7 @@
 
   📌아이어 | 2022.04.01 ~ ing
 
-<h2>More</h2>
+<h2>ETC</h2>
 🤍velog: https://velog.io/@eminentecero
 
 
