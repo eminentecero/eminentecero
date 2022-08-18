@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hello, I'm Swim 🍀
+  # Hello:) I'm Swim 🍀
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feminentecero%2Fhit-counter&count_bg=%233175C6&title_bg=%238BB8F5&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/eminentecero)
 
@@ -34,7 +34,7 @@
 
   📌줏대 | 2021.07.05 ~ 2021.08.30
 
-  📌아이어 | 2022.04.01 ~ ing
+  📌아이어 | 2022.04.01 ~ 
 
 <h2>ETC</h2>
 🤍velog: https://velog.io/@eminentecero
